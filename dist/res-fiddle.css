@@ -1,9 +1,15 @@
-#dark-body {
-    background-color: #1c1c1c;
-}
+/*!
+ * FiddleCSS v0.1 (https://brixpayments.com/docs/fiddle/css)
+ * Copyright 2021 The FiddleCSS Authors
+ * Copyright 2021 Brix
+ * Licensed under MIT (https://github.com/brixfiddle/FiddleCSS/blob/main/LICENSE)
+ * @shreyansh-on-github 
+ */
 
-.dark button {
-    background-color: #28fd7f;
+:root {
+    --fd-green: #28fd7f;
+    --fd-black: #1c1c1c;
+    --fd-white: #f1f1f1;
 }
 
 .button {
