@@ -1,0 +1,12 @@
+.dark button {
+    background-color: #28fd7f;
+}
+
+.button {
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+
+.dark body {
+    background-color: #1c1c1c;
+}
