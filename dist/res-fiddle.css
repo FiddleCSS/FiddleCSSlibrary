@@ -10,6 +10,6 @@
         --fd-green: #28fd7f;
         --fd-black: #1c1c1c;
         --fd-white: #f1f1f1;
-        dark-body {
-            background-color: var(--fd-black);
-        }
+ bg-green{
+         background-color: var(--fd-green);
+            }
